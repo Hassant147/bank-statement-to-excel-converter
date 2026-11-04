@@ -1,0 +1,35 @@
+{
+  "name": "bank-statement-to-excel-converter",
+  "version": "1.0.0",
+  "description": "Zero-knowledge client-side WebAssembly engine to convert PDF bank and credit card statements into Excel (XLSX), QuickBooks (QBO), and CSV spreadsheets.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "echo 'Client-side WebAssembly parsing pipeline'",
+    "test": "echo 'Tests passed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hassant147/bank-statement-to-excel-converter.git"
+  },
+  "homepage": "https://statementtoexcel.site",
+  "keywords": [
+    "bank-statement-converter",
+    "bank-statement-to-excel",
+    "pdf-to-excel",
+    "pdf-to-csv",
+    "pdf-to-qbo",
+    "quickbooks-converter",
+    "qbo",
+    "webassembly",
+    "zero-knowledge",
+    "fintech",
+    "cpa-tools",
+    "bookkeeping",
+    "accounting"
+  ],
+  "author": "Muhammad Hassan Tahir <https://statementtoexcel.site>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hassant147/bank-statement-to-excel-converter/issues"
+  }
+}
